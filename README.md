@@ -1,10 +1,10 @@
-📊 Log Analyzer Project (Python)
+# 📊 Log Analyzer Project (Python)
 
-📌 Project Overview
+## 📌 Project Overview
 
 The Log Analyzer Project is a Python-based solution designed to analyze system and security log files and extract meaningful insights. The project processes authentication-related log data to identify failed login attempts, generate structured reports, and create visual representations that support security monitoring and analysis.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze log files to identify authentication activity
 
@@ -16,7 +16,7 @@ Visualize authentication failure trends using graphs
 
 Apply practical log analysis concepts using Python
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python
 
@@ -28,7 +28,7 @@ CSV Report Generation
 
 Matplotlib for Data Visualization
 
-📂 Project Structure
+## 📂 Project Structure
 Log-Analyzer-Project/
 ├── log_analyzer.py
 ├── sample_logs.txt
@@ -36,12 +36,12 @@ Log-Analyzer-Project/
 ├── failed_login_graph.png
 └── README.md
 
-📄 Input Data
+## 📄 Input Data
 
 sample_logs.txt
 Contains raw log entries with details such as timestamps, user identifiers, and authentication status. These logs are used as the input data for analysis.
 
-⚙️ Working of the Project
+## ⚙️ Working of the Project
 
 The Python script reads the log file and processes each entry line by line.
 
@@ -53,7 +53,7 @@ The analyzed data is exported into a structured CSV report.
 
 A graphical representation of failed login activity is generated for better visualization.
 
-✨ Key Features
+## ✨ Key Features
 
 Security-focused log analysis
 
@@ -65,7 +65,7 @@ Visual insights through graphs
 
 Simple and efficient execution workflow
 
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 
 Clone the repository:
 
@@ -81,13 +81,13 @@ Run the Python script:
 
 python log_analyzer.py
 
-📊 Output Files
+## 📊 Output Files
 
 security_report.csv – Structured summary of failed login attempts
 
 failed_login_graph.png – Graphical visualization of authentication failure trends
 
-🧠 Learning Outcomes
+## 🧠 Learning Outcomes
 
 Practical understanding of log and security data analysis
 
@@ -99,7 +99,7 @@ Data visualization using Python
 
 Analytical thinking and problem-solving skills
 
-🚀 Scope for Enhancement
+## 🚀 Scope for Enhancement
 
 Support for additional log formats
 
@@ -108,4 +108,5 @@ Time-based trend analysis
 Advanced alerting mechanisms
 
 Enhanced reporting capabilities
+
 
