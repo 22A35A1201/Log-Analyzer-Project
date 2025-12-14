@@ -1,4 +1,5 @@
 📊 Log Analyzer Project (Python)
+
 📌 Project Overview
 
 The Log Analyzer Project is a Python-based solution designed to analyze system and security log files and extract meaningful insights. The project processes authentication-related log data to identify failed login attempts, generate structured reports, and create visual representations that support security monitoring and analysis.
@@ -107,3 +108,4 @@ Time-based trend analysis
 Advanced alerting mechanisms
 
 Enhanced reporting capabilities
+
